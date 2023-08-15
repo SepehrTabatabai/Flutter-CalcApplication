@@ -7,7 +7,7 @@ it is important to mention that these programs were written by a junior develope
 ## Getting Started
 This project is a starting point for a Flutter application.
 
-To run the Flutter Drama Application on your local machine, follow these steps:
+To run the Flutter Calculator Application on your local machine, follow these steps:
 
 1. Make sure you have Flutter and Dart installed. If not, you can download and install them from [here](https://flutter.dev/docs/get-started/install).
 2. Also Take Care About Gradel Version And dependencies Use The Same Version
